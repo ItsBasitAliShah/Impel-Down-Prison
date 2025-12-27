@@ -83,3 +83,9 @@ Upon system startup, use the numerical menu to execute commands:
 ```text
 WARNING: LEVEL 6 ACCESS IS RESTRICTED. 
 UNAUTHORIZED VIEWING OF LEVEL 6 INMATES IS A PUNISHABLE OFFENSE.
+```
+
+
+https://github.com/user-attachments/assets/27b5e1de-fdc6-4124-bc3f-527357fa039d
+
+

@@ -54,7 +54,7 @@ Follow these steps to initialize the prison management system.
 
 ### 1. Visual Training
 For a complete walkthrough of the Program, access it here:
-**[ INSERT LINK TO TUTORIAL VIDEO HERE ]**
+**[  ]**
 
 ### 2. Initialization
 You may run the pre-compiled executable or compile the source code manually.

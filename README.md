@@ -52,12 +52,11 @@ The Warden Interface allows for complete control over the prison population.
 
 Follow these steps to initialize the prison management system.
 
-### 1. Visual Training
-For a complete walkthrough of the Program, access it here:
-**[  ]**
 
-### 2. Initialization
-You may run the pre-compiled executable or compile the source code manually.
+### For a complete walkthrough of the Program, access it here:
+https://github.com/user-attachments/assets/27b5e1de-fdc6-4124-bc3f-527357fa039d
+
+### You may run the pre-compiled executable or compile the source code manually.
 
 **Option A: Execute Pre-compiled Binary**
 Navigate to the release folder and run the `.exe` file. The terminal interface will launch immediately.
@@ -86,6 +85,5 @@ UNAUTHORIZED VIEWING OF LEVEL 6 INMATES IS A PUNISHABLE OFFENSE.
 ```
 
 
-https://github.com/user-attachments/assets/27b5e1de-fdc6-4124-bc3f-527357fa039d
 
 
